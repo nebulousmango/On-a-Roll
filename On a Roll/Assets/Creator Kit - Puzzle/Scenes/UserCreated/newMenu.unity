@@ -250,8 +250,13 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2134953769263522998, guid: f4f4195bdbeed824983d38771f0f5b32,
         type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 10.5575
+      objectReference: {fileID: 0}
+    - target: {fileID: 2134953769263522998, guid: f4f4195bdbeed824983d38771f0f5b32,
+        type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 411
+      value: 316.55127
       objectReference: {fileID: 0}
     - target: {fileID: 2134953769263522999, guid: f4f4195bdbeed824983d38771f0f5b32,
         type: 3}
@@ -262,6 +267,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: MenuCanvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 2134953769307939636, guid: f4f4195bdbeed824983d38771f0f5b32,
+        type: 3}
+      propertyPath: m_UiScaleMode
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2134953769307939638, guid: f4f4195bdbeed824983d38771f0f5b32,
         type: 3}
@@ -330,12 +340,12 @@ PrefabInstance:
     - target: {fileID: 2134953769307939638, guid: f4f4195bdbeed824983d38771f0f5b32,
         type: 3}
       propertyPath: levels.Array.data[2].oneStarTime
-      value: 60
+      value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 2134953769307939638, guid: f4f4195bdbeed824983d38771f0f5b32,
         type: 3}
       propertyPath: levels.Array.data[2].twoStarTime
-      value: 50
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 2134953769307939638, guid: f4f4195bdbeed824983d38771f0f5b32,
         type: 3}
@@ -345,12 +355,12 @@ PrefabInstance:
     - target: {fileID: 2134953769307939638, guid: f4f4195bdbeed824983d38771f0f5b32,
         type: 3}
       propertyPath: levels.Array.data[3].oneStarTime
-      value: 80
+      value: 30
       objectReference: {fileID: 0}
     - target: {fileID: 2134953769307939638, guid: f4f4195bdbeed824983d38771f0f5b32,
         type: 3}
       propertyPath: levels.Array.data[3].twoStarTime
-      value: 50
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 2134953769307939638, guid: f4f4195bdbeed824983d38771f0f5b32,
         type: 3}
@@ -365,12 +375,12 @@ PrefabInstance:
     - target: {fileID: 2134953769307939638, guid: f4f4195bdbeed824983d38771f0f5b32,
         type: 3}
       propertyPath: levels.Array.data[2].threeStarTime
-      value: 40
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 2134953769307939638, guid: f4f4195bdbeed824983d38771f0f5b32,
         type: 3}
       propertyPath: levels.Array.data[3].threeStarTime
-      value: 40
+      value: 15.5
       objectReference: {fileID: 0}
     - target: {fileID: 2134953769307939638, guid: f4f4195bdbeed824983d38771f0f5b32,
         type: 3}
@@ -571,8 +581,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2604487426005663550, guid: f4f4195bdbeed824983d38771f0f5b32,
         type: 3}
+      propertyPath: m_SizeDelta.x
+      value: -389.8854
+      objectReference: {fileID: 0}
+    - target: {fileID: 2604487426005663550, guid: f4f4195bdbeed824983d38771f0f5b32,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: -12.614
+      objectReference: {fileID: 0}
+    - target: {fileID: 2604487426005663550, guid: f4f4195bdbeed824983d38771f0f5b32,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 4.586914
+      objectReference: {fileID: 0}
+    - target: {fileID: 2604487426005663550, guid: f4f4195bdbeed824983d38771f0f5b32,
+        type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -90.29999
+      value: -82.30699
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f4f4195bdbeed824983d38771f0f5b32, type: 3}
