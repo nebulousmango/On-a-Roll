@@ -54,6 +54,8 @@ ScriptsOnlyBuild:
     - TMPro.TMP_SpriteAsset
     - TMPro.TMP_StyleSheet
     - TMPro.TextMeshProUGUI
+    Unity.Timeline.Editor.dll:
+    - TimelineProjectSettings
     Unity.Timeline.dll:
     - UnityEngine.Timeline.ActivationPlayableAsset
     - UnityEngine.Timeline.ActivationTrack
@@ -189,25 +191,25 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 4148}
     - Class: 114
-      Script: {instanceID: 4374}
+      Script: {instanceID: 4372}
     - Class: 114
-      Script: {instanceID: 4442}
+      Script: {instanceID: 4440}
     - Class: 114
-      Script: {instanceID: 4810}
+      Script: {instanceID: 4808}
     - Class: 114
-      Script: {instanceID: 4842}
+      Script: {instanceID: 4840}
     - Class: 114
-      Script: {instanceID: 4942}
+      Script: {instanceID: 4940}
     - Class: 114
-      Script: {instanceID: 5166}
+      Script: {instanceID: 5164}
     - Class: 114
-      Script: {instanceID: 5266}
+      Script: {instanceID: 5264}
     - Class: 114
-      Script: {instanceID: 5352}
+      Script: {instanceID: 5350}
     - Class: 114
-      Script: {instanceID: 5450}
+      Script: {instanceID: 5448}
     - Class: 114
-      Script: {instanceID: 5490}
+      Script: {instanceID: 5488}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -364,27 +366,27 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 4148}
     - Class: 114
-      Script: {instanceID: 4442}
+      Script: {instanceID: 4440}
     - Class: 114
-      Script: {instanceID: 4794}
+      Script: {instanceID: 4792}
     - Class: 114
-      Script: {instanceID: 4810}
+      Script: {instanceID: 4808}
     - Class: 114
-      Script: {instanceID: 4842}
+      Script: {instanceID: 4840}
     - Class: 114
-      Script: {instanceID: 4942}
+      Script: {instanceID: 4940}
     - Class: 114
-      Script: {instanceID: 5040}
+      Script: {instanceID: 5038}
     - Class: 114
-      Script: {instanceID: 5166}
+      Script: {instanceID: 5164}
     - Class: 114
-      Script: {instanceID: 5266}
+      Script: {instanceID: 5264}
     - Class: 114
-      Script: {instanceID: 5352}
+      Script: {instanceID: 5350}
     - Class: 114
-      Script: {instanceID: 5450}
+      Script: {instanceID: 5448}
     - Class: 114
-      Script: {instanceID: 5490}
+      Script: {instanceID: 5488}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -539,25 +541,25 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 4148}
     - Class: 114
-      Script: {instanceID: 4374}
+      Script: {instanceID: 4372}
     - Class: 114
-      Script: {instanceID: 4442}
+      Script: {instanceID: 4440}
     - Class: 114
-      Script: {instanceID: 4810}
+      Script: {instanceID: 4808}
     - Class: 114
-      Script: {instanceID: 4842}
+      Script: {instanceID: 4840}
     - Class: 114
-      Script: {instanceID: 4942}
+      Script: {instanceID: 4940}
     - Class: 114
-      Script: {instanceID: 5166}
+      Script: {instanceID: 5164}
     - Class: 114
-      Script: {instanceID: 5266}
+      Script: {instanceID: 5264}
     - Class: 114
-      Script: {instanceID: 5352}
+      Script: {instanceID: 5350}
     - Class: 114
-      Script: {instanceID: 5450}
+      Script: {instanceID: 5448}
     - Class: 114
-      Script: {instanceID: 5490}
+      Script: {instanceID: 5488}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -710,25 +712,25 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 4148}
     - Class: 114
-      Script: {instanceID: 4374}
+      Script: {instanceID: 4372}
     - Class: 114
-      Script: {instanceID: 4442}
+      Script: {instanceID: 4440}
     - Class: 114
-      Script: {instanceID: 4810}
+      Script: {instanceID: 4808}
     - Class: 114
-      Script: {instanceID: 4842}
+      Script: {instanceID: 4840}
     - Class: 114
-      Script: {instanceID: 4942}
+      Script: {instanceID: 4940}
     - Class: 114
-      Script: {instanceID: 5166}
+      Script: {instanceID: 5164}
     - Class: 114
-      Script: {instanceID: 5266}
+      Script: {instanceID: 5264}
     - Class: 114
-      Script: {instanceID: 5352}
+      Script: {instanceID: 5350}
     - Class: 114
-      Script: {instanceID: 5450}
+      Script: {instanceID: 5448}
     - Class: 114
-      Script: {instanceID: 5490}
+      Script: {instanceID: 5488}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -829,9 +831,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 4052}
     - Class: 114
-      Script: {instanceID: 4610}
+      Script: {instanceID: 4608}
     - Class: 114
-      Script: {instanceID: 4946}
+      Script: {instanceID: 4944}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -1569,12 +1571,6 @@ ScriptsOnlyBuild:
     assemblyName: Cinemachine.dll
     namespaceName: Cinemachine
     className: CinemachineTrackedDolly
-  - hash:
-      serializedVersion: 2
-      Hash: af9f720a11fc2f0398a62c9b8c4c54ba
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: ButtonManager
   - hash:
       serializedVersion: 2
       Hash: aba7b2852ef61d175dd9602e7723d5e5
