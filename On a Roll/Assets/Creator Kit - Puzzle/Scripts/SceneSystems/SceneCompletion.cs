@@ -50,6 +50,7 @@ public class SceneCompletion : MonoBehaviour
     // UI Button
     public void ReloadLevel ()
     {
+        screenFader.FadeOut(() => SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex));
         if (sceneReference != null)
         {
             sceneReference.ReloadLevel (screenFader);
