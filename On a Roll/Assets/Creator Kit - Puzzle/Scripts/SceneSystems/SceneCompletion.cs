@@ -64,6 +64,7 @@ public class SceneCompletion : MonoBehaviour
     // UI Button
     public void LoadMenu ()
     {
+        screenFader.FadeOut(() => SceneManager.LoadScene("MainMenu"));
         if (sceneReference != null)
         {
             sceneReference.LoadMenu (screenFader);
