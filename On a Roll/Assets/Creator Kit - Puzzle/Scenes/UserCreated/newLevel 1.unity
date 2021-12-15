@@ -571,6 +571,11 @@ PrefabInstance:
       objectReference: {fileID: 297397815}
     - target: {fileID: 3177320232437788524, guid: 265978cc11efcb246b02b68be4f3e358,
         type: 3}
+      propertyPath: uiDelay
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3177320232437788524, guid: 265978cc11efcb246b02b68be4f3e358,
+        type: 3}
       propertyPath: timingRecording
       value: 
       objectReference: {fileID: 628714379}
@@ -961,6 +966,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: LevelMusic
       objectReference: {fileID: 0}
+    - target: {fileID: 601729860055346036, guid: 0478f95790edb8d49bdda38268c49b62,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0478f95790edb8d49bdda38268c49b62, type: 3}
 --- !u!1001 &628714378
@@ -979,6 +989,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_isInputParsingRequired
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2126303994610299508, guid: 3aee8a1cad05205468b76c9feb6d5d54,
+        type: 3}
+      propertyPath: m_Color.a
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2279570994676496915, guid: 3aee8a1cad05205468b76c9feb6d5d54,
         type: 3}
@@ -1004,6 +1019,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_isInputParsingRequired
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8781251346182638036, guid: 3aee8a1cad05205468b76c9feb6d5d54,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8781251346182638036, guid: 3aee8a1cad05205468b76c9feb6d5d54,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8781251346182638039, guid: 3aee8a1cad05205468b76c9feb6d5d54,
         type: 3}

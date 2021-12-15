@@ -1062,6 +1062,11 @@ PrefabInstance:
       objectReference: {fileID: 1667430443}
     - target: {fileID: 3177320232437788524, guid: 265978cc11efcb246b02b68be4f3e358,
         type: 3}
+      propertyPath: uiDelay
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3177320232437788524, guid: 265978cc11efcb246b02b68be4f3e358,
+        type: 3}
       propertyPath: timingRecording
       value: 
       objectReference: {fileID: 628714379}
@@ -1531,6 +1536,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: LevelMusic
+      objectReference: {fileID: 0}
+    - target: {fileID: 601729860055346036, guid: 0478f95790edb8d49bdda38268c49b62,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0478f95790edb8d49bdda38268c49b62, type: 3}

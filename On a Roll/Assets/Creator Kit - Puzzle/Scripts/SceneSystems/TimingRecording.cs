@@ -42,6 +42,9 @@ public class TimingRecording : MonoBehaviour
         
         if(Input.GetKeyDown (resetKeyCode))
             sceneCompletion.ReloadLevel ();
+
+        if (Input.GetKeyDown(KeyCode.Escape))
+            sceneCompletion.LoadMenu();
     }
 
     public void GoalReached (float uiDelay)
